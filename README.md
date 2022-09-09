@@ -1,2 +1,2 @@
-# musical-octo-waffle-PyTorch-basic
+PyTorch-basics
 some PyTorch basic stuff
